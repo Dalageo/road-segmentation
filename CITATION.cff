@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If this project was helpful, please cite it as below."
-title: "IDDRoadSegmentation"
+title: "road-segmentation"
 authors:
   - family-names: "Dalageorgos"
     given-names: "Konstantinos"
 version: "1.0.0" 
 date-released: "2024-12-12"
-repository-code: "https://github.com/Dalageo/IDDRoadSegmentation"
+repository-code: "https://github.com/Dalageo/road-segmentation"
 license: "GNU Affero General Public License v3.0"
